@@ -28,7 +28,6 @@ Este repositório documenta o processo de migração de infraestrutura entre dua
 
 - `MIGRACAO.md`: documentação completa da migração
 - `README.md`: este arquivo com visão geral e instruções
-- `capa.png`: (opcional) imagem ilustrativa da arquitetura
 
 ---
 
