@@ -61,18 +61,8 @@ Migração completa de infraestrutura entre duas contas AWS, envolvendo serviço
 
 ---
 
-## 🕒 Resumo da Linha do Tempo da Migração
-
-- Desligamento dos serviços: ~21:15
-- Snapshots e replicações: entre 21:22 e 22:11
-- Criação de novos recursos e ajustes: até 23:25
-- Sistemas de pé: até 00:30 (incluindo correção de imagem incorreta no BookStack)
-
----
-
 ## ✅ Observações Importantes
 
 - Garantida a replicação segura de EFS e RDS
-- Alterações de DNS planejadas e executadas na “hora da virada”
-- Correções emergenciais aplicadas em tempo real (ex: imagem do BookStack)
+- Alterações de DNS planejadas e executadas em horário previamente planejado
 - Todos os recursos finais estão na nova conta, com DNS atualizado e serviços ativos
